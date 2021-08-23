@@ -1,5 +1,8 @@
 # Test-Epitech
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71084572/130462812-6a5aaed5-ca2a-4e8a-a0ea-475ee0ddd0f1.gif" width="400px" alt="Logo Epitech" /></p>
+
 # Création d'un hexagrame en python
 
 ## Présentation
